@@ -1,4 +1,4 @@
-# Fixed Easy Crackme — Reverse Engineering Write-Up
+# Fixed Easy Crackme - Reverse Engineering Write-Up
 
 **Category:** Reverse Engineering
 **Difficulty:** Easy
