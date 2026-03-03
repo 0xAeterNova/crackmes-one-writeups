@@ -33,7 +33,7 @@ Static analysis was enough (no Windows required):
 file CrackMeEasy.exe
 # PE32+ executable (console) x86-64, for MS Windows, 6 sections
 ```
-![file information](01-file.png)
+![file information](images/01-file.png)
 
 ### Hashes (reproducibility)
 
